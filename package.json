@@ -1,0 +1,24 @@
+{
+  "name": "mob-calarea",
+  "version": "1.0.0",
+  "description": "my first node package npm mob-calarea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob35/mob-calarea.git"
+  },
+  "keywords": [
+    "area",
+    "node",
+    "meanjs"
+  ],
+  "author": "Jakkrich J.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mob35/mob-calarea/issues"
+  },
+  "homepage": "https://github.com/mob35/mob-calarea#readme"
+}
